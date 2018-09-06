@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ПапаКава</string>
+
+    <string name="setting">Налаштування</string>
+    <string name="ok">Ок</string>
+
+    <string name="navigation_item_profile">Профіль</string>
+    <string name="navigation_item_cava">Кава</string>
+    <string name="navigation_item_basket">Кошик</string>
+
+    <string name="textTvLaskZ">Повторити останнє замовлення</string>
+
+    <string-array name="papa_cava">
+        <item>1кг</item>
+        <item>250гр.</item>
+        <item>500гр.</item>
+        <item>Ambassador</item>
+        <item>Caffe Poli</item>
+        <item>Gimoka</item>
+        <item>Lavazza</item>
+    </string-array>
+</resources>
